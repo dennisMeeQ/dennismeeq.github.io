@@ -14,7 +14,7 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale: "en-US"
 title: "All Things Auth"
 title_separator: "-"
-subtitle: "A blog about Authentication, Authorization and other security topics"
+subtitle: "A blog about authentication, authorization and other security topics"
 name: &name "Dennis Stötzel" # &name is a YAML anchor which can be *referenced later
 description: &description "Everything about Authentication and Authorization"
 url: https://blog.allthingsauth.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -108,7 +108,7 @@ analytics:
 author:
   name: *name # *name is a YAML reference pointing to the &anchor earlier
   avatar: "/assets/images/dennis.stoetzel.png"
-  bio: "Foobar"
+  bio: "Security nerd & developer :ghost: diver & traveler :palm_tree: blogging n00b"
   location: "Đà Nẵng, Vietnam"
   links:
     - label: "Medium"
@@ -117,9 +117,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dennisMeeQ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dennis-stoetzel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/foobar"
+      url: "https://instagram.com/dennis_scuba"
 
 # Site Footer
 footer:
@@ -130,9 +133,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dennisMeeQ"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dennis-stoetzel"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/foobar"
+      url: "https://instagram.com/dennis_scuba"
 
 # Reading Files
 include:
